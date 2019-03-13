@@ -1,0 +1,9 @@
+facebook_email  = ""
+facebook_passwd = ""
+gmail_email     = ""
+gmail_passwd    = ""
+weather_url_1   = "http://api.openweathermap.org/data/2.5/weather?q="
+weather_url_2   = "&mode=json&APPID=fb5920c69e42c5bff1e08dce1808ca7c"
+news_CNN_url = "https://newsapi.org/v2/top-headlines?sources=cnn&apiKey=a76abd47919d428ea1c98a87b627efcd"
+news_BBCSport_url = "https://newsapi.org/v2/top-headlines?sources=bbc-sport&apiKey=a76abd47919d428ea1c98a87b627efcd"
+retries = 3
