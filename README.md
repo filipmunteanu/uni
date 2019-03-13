@@ -1,3 +1,3 @@
 # uni
 
-Some of the university assignments
+Some of my university projects/assignments.
